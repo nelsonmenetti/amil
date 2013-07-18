@@ -1,0 +1,18 @@
+Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
+quando estivermos avaliando a sua solução
+
+
+Ola , para esta solução eu realizei tanto o que era requisito principal quanto Bonus.
+
+A solução éta integrada via MAVEN , para buildar vocês podem utilizar linha de comando ( mvn clean install) ou via Eclipse
+
+Para realizar uma simulação de match  completa execute a classe "SimulateMatch" sem parametros , 
+Isso simulará um match entre 10 players e printará todos os dados do que ocorrer no log default (console) :)
+
+A cobertura de testes das classes de negocio esta boa mas não consegui pensar numa maneira eficiente de testar os metodos que tem geração de dados aleatorios.
+
+
+A sim tem uma coisa importante , eu fiquei em duvida entao desconsiderei os assasinatos do player world tanto em relação aos jogadores Humanos quanto dos Humanos com relação ao <WORLD>.
+Afinal o que conta no PVP é matar jogador o resto é resto :).
+
+Foi divertido t+
