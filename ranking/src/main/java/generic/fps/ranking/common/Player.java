@@ -27,6 +27,10 @@ public class Player {
 	private List<Award> awards=new ArrayList<Award>() ;
 	private Long currentMatchId ;
 	
+	public Player(String name ) {
+		super();
+		this.name = name;
+	}
 	
 	public Player(String name, Weapons currentWeapon ) {
 		super();

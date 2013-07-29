@@ -1,15 +1,15 @@
 package generic.fps.ranking;
 
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.Random;
-
 import generic.fps.ranking.common.Enemies;
 import generic.fps.ranking.common.Match;
 import generic.fps.ranking.common.Player;
 import generic.fps.ranking.common.Weapons;
 import generic.fps.ranking.util.ChangePlayerWeapon;
 import generic.fps.ranking.util.DefinePlayerKills;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.Random;
 
 import org.apache.log4j.Logger;
 

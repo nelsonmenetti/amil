@@ -16,3 +16,10 @@ A sim tem uma coisa importante , eu fiquei em duvida entao desconsiderei os assa
 Afinal o que conta no PVP é matar jogador o resto é resto :).
 
 Foi divertido t+
+
+
+----UPDATE 1
+
+Adicionei a funcionalidade de ReverseMatch que permite que se gere o ranking de uma partida via log 
+Para testar a mesma faça um build da solução e execute a classe SimulateMatchBasedOnLog passando como argumento o caminho completo para o arquivo de log que deseja interpretar.
+

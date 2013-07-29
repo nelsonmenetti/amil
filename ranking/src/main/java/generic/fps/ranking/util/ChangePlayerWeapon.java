@@ -4,7 +4,6 @@ import generic.fps.ranking.common.Enemies;
 import generic.fps.ranking.common.Player;
 import generic.fps.ranking.common.Weapons;
 
-import java.util.Date;
 import java.util.Random;
 
 public class ChangePlayerWeapon {

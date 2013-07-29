@@ -98,7 +98,7 @@ public class Match {
 		this.waitingPlayers=false;
 		this.ongoing=true;
 		this.finished=false;
-		logger.info("Match Started...Prepare to die");
+		logger.info("New match "+id+" has started");
 	}
 	
     public void endMatch(){
@@ -113,7 +113,8 @@ public class Match {
 			}
 		}
 		
-		logger.info("Match Finished...Go Cry to Mom");
+
+		logger.info("Match "+id+" has ended");
 	}
 	
 	public List<Player> generateRanking (){

@@ -1,0 +1,441 @@
+ INFO [main] (Match.java:101) - New match 1 has started
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed BILL using Axe
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed JEAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed JEAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed ALAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed ALAN using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed ALAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed BILL using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed BILL using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed BILL using Axe
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:25) - JEREMY killed Drown using Axe
+ INFO [main] (DefinePlayerKills.java:25) - JEREMY killed Drown using Axe
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  JEREMY by Drown
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed JEREMY using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JEREMY killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - JEREMY killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - JEREMY killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed JEREMY using Knife
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed ANA using Knife
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed MORGAN using Knife
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed MORGAN using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed BILL using Axe
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed MORGAN using Knife
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed MORGAN using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed BILL using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed JEAN using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed BILL using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed BILL using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed JEAN using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JP killed BILL using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JP killed BILL using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JP killed BILL using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JP killed BILL using Knife
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed JP using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JP killed BILL using Knife
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed JEREMY using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JEREMY killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - JEREMY killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - JEREMY killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed JEREMY using Knife
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed BILL using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - JP killed ALAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JP using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JP using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JP using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JP using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - DEAN killed JP using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JP killed DEAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - DEAN killed JP using Axe
+ INFO [main] (DefinePlayerKills.java:41) - DEAN killed JP using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JP killed DEAN using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JP killed DEAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - DEAN killed JP using Axe
+ INFO [main] (DefinePlayerKills.java:25) - JP killed Gwyn Lord of Cinders using Axe
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  MORGAN by Quelana of Izalith
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  MORGAN by Quelana of Izalith
+ INFO [main] (DefinePlayerKills.java:25) - MORGAN killed Quelana of Izalith using Shotgun
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  MORGAN by Quelana of Izalith
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  MORGAN by Quelana of Izalith
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  MORGAN by Quelana of Izalith
+ INFO [main] (DefinePlayerKills.java:41) - JP killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:29) - MORGAN killed JP using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - JP killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - JP killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:29) - MORGAN killed JP using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - JP killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - JP killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:29) - MORGAN killed ANA using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:29) - MORGAN killed ANA using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed MORGAN using Shotgun
+ INFO [main] (DefinePlayerKills.java:29) - MORGAN killed BILL using Shotgun
+ INFO [main] (DefinePlayerKills.java:37) - BILL killed Drown using Shotgun
+ INFO [main] (DefinePlayerKills.java:22) - <WORLD> killed BILL by Drown
+ INFO [main] (DefinePlayerKills.java:37) - BILL killed Drown using Shotgun
+ INFO [main] (DefinePlayerKills.java:37) - BILL killed Drown using Shotgun
+ INFO [main] (DefinePlayerKills.java:22) - <WORLD> killed BILL by Drown
+ INFO [main] (DefinePlayerKills.java:37) - JEAN killed Drown using Bazuka
+ INFO [main] (DefinePlayerKills.java:22) - <WORLD> killed JEAN by Drown
+ INFO [main] (DefinePlayerKills.java:22) - <WORLD> killed JEAN by Drown
+ INFO [main] (DefinePlayerKills.java:22) - <WORLD> killed JEAN by Drown
+ INFO [main] (DefinePlayerKills.java:37) - JEAN killed Drown using Bazuka
+ INFO [main] (DefinePlayerKills.java:37) - JEAN killed Drown using Bazuka
+ INFO [main] (DefinePlayerKills.java:37) - JEAN killed Drown using Bazuka
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed ALAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - JP killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - ALAN killed JP using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - JP killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - JP killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - JP killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - JP killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - ALAN killed ANA using Shotgun
+ INFO [main] (DefinePlayerKills.java:29) - ALAN killed ANA using Shotgun
+ INFO [main] (DefinePlayerKills.java:29) - ALAN killed ANA using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - ALAN killed ANA using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed ALAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed ALAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed JEAN using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed JEAN using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - JEAN killed BILL using Bazuka
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed JEAN using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed JEAN using Handgun
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  JEAN by Executioner Smough
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  JEAN by Executioner Smough
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  JEAN by Executioner Smough
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  JEAN by Executioner Smough
+ INFO [main] (DefinePlayerKills.java:25) - JEAN killed Executioner Smough using Bazuka
+ INFO [main] (DefinePlayerKills.java:25) - JEAN killed Executioner Smough using Bazuka
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  JEAN by Executioner Smough
+ INFO [main] (DefinePlayerKills.java:25) - JEAN killed Executioner Smough using Bazuka
+ INFO [main] (DefinePlayerKills.java:41) - DEAN killed JEAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - DEAN killed JEAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - DEAN killed JEAN using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - JEAN killed DEAN using Bazuka
+ INFO [main] (DefinePlayerKills.java:29) - JEAN killed DEAN using Bazuka
+ INFO [main] (DefinePlayerKills.java:29) - JEAN killed DEAN using Bazuka
+ INFO [main] (DefinePlayerKills.java:29) - ANA killed DEAN using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:29) - ANA killed MORGAN using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:29) - ANA killed MORGAN using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed ANA using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed ANA using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - ANA killed MORGAN using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed ANA using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed ANA using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed ANA using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - ANA killed DENIS using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:41) - DENIS killed ANA using Axe
+ INFO [main] (DefinePlayerKills.java:41) - DENIS killed ANA using Axe
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed JEAN using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed JEAN using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed JEAN using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed JEAN using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JP killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed JP using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - JP killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed JP using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed JP using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed DENIS using Bazuka
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed DENIS using Bazuka
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed DENIS using Bazuka
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed ALAN using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed DENIS using Bazuka
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed DENIS using Bazuka
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed DENIS using Bazuka
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed DENIS using Bazuka
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed BILL using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed BILL using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed BILL using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed DENIS using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed DENIS using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed DENIS using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed DENIS using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed DENIS using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - DENIS killed DEAN using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:29) - DEAN killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:29) - DEAN killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:29) - DEAN killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:41) - DENIS killed DEAN using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:41) - DENIS killed DEAN using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:41) - DENIS killed DEAN using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:25) - DEAN killed Dragon using Knife
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  DEAN by Dragon
+ INFO [main] (DefinePlayerKills.java:25) - DEAN killed Dragon using Knife
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  DEAN by Dragon
+ INFO [main] (DefinePlayerKills.java:25) - DEAN killed Dragon using Knife
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  DEAN by Dragon
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  DEAN by Dragon
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  DEAN by Dragon
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed JEFF using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed JEFF using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed JEFF using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:29) - JEFF killed ANA using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - JEFF killed ANA using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - JEFF killed ANA using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed JEFF using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:29) - JEFF killed ANA using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:29) - JEFF killed MORGAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:29) - JEFF killed MORGAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:29) - JEFF killed MORGAN using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - JEFF killed MORGAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (Match.java:117) - Match 1 has ended 
+ 
+ INFO [main] (Match.java:101) - New match 2 has started
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed BILL using Axe
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed JEAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed JEAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed ALAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed ALAN using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed ALAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed BILL using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed BILL using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JEREMY killed BILL using Axe
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed JEREMY using Axe
+ INFO [main] (DefinePlayerKills.java:25) - JEREMY killed Drown using Axe
+ INFO [main] (DefinePlayerKills.java:25) - JEREMY killed Drown using Axe
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  JEREMY by Drown
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed JEREMY using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JEREMY killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - JEREMY killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - JEREMY killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed JEREMY using Knife
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed ANA using Knife
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed MORGAN using Knife
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed MORGAN using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed BILL using Axe
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed MORGAN using Knife
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed MORGAN using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed BILL using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed JEAN using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed BILL using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed BILL using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed JEAN using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JP killed BILL using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JP killed BILL using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JP killed BILL using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JP killed BILL using Knife
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed JP using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JP killed BILL using Knife
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed JEREMY using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JEREMY killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - JEREMY killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - JEREMY killed BILL using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - BILL killed JEREMY using Knife
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed BILL using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - JP killed ALAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JP using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JP using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JP using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed JP using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - DEAN killed JP using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JP killed DEAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - DEAN killed JP using Axe
+ INFO [main] (DefinePlayerKills.java:41) - DEAN killed JP using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JP killed DEAN using Axe
+ INFO [main] (DefinePlayerKills.java:29) - JP killed DEAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - DEAN killed JP using Axe
+ INFO [main] (DefinePlayerKills.java:25) - JP killed Gwyn Lord of Cinders using Axe
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  MORGAN by Quelana of Izalith
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  MORGAN by Quelana of Izalith
+ INFO [main] (DefinePlayerKills.java:25) - MORGAN killed Quelana of Izalith using Shotgun
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  MORGAN by Quelana of Izalith
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  MORGAN by Quelana of Izalith
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  MORGAN by Quelana of Izalith
+ INFO [main] (DefinePlayerKills.java:41) - JP killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:29) - MORGAN killed JP using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - JP killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - JP killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:29) - MORGAN killed JP using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - JP killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - JP killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:29) - MORGAN killed ANA using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:29) - MORGAN killed ANA using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed MORGAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed MORGAN using Shotgun
+ INFO [main] (DefinePlayerKills.java:29) - MORGAN killed BILL using Shotgun
+ INFO [main] (DefinePlayerKills.java:37) - BILL killed Drown using Shotgun
+ INFO [main] (DefinePlayerKills.java:22) - <WORLD> killed BILL by Drown
+ INFO [main] (DefinePlayerKills.java:37) - BILL killed Drown using Shotgun
+ INFO [main] (DefinePlayerKills.java:37) - BILL killed Drown using Shotgun
+ INFO [main] (DefinePlayerKills.java:22) - <WORLD> killed BILL by Drown
+ INFO [main] (DefinePlayerKills.java:37) - JEAN killed Drown using Bazuka
+ INFO [main] (DefinePlayerKills.java:22) - <WORLD> killed JEAN by Drown
+ INFO [main] (DefinePlayerKills.java:22) - <WORLD> killed JEAN by Drown
+ INFO [main] (DefinePlayerKills.java:22) - <WORLD> killed JEAN by Drown
+ INFO [main] (DefinePlayerKills.java:37) - JEAN killed Drown using Bazuka
+ INFO [main] (DefinePlayerKills.java:37) - JEAN killed Drown using Bazuka
+ INFO [main] (DefinePlayerKills.java:37) - JEAN killed Drown using Bazuka
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed ALAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - JP killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - ALAN killed JP using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - JP killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - JP killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - JP killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - JP killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - ALAN killed ANA using Shotgun
+ INFO [main] (DefinePlayerKills.java:29) - ALAN killed ANA using Shotgun
+ INFO [main] (DefinePlayerKills.java:29) - ALAN killed ANA using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed ALAN using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - ALAN killed ANA using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed ALAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed ALAN using Axe
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed JEAN using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed JEAN using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - JEAN killed BILL using Bazuka
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed JEAN using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed JEAN using Handgun
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  JEAN by Executioner Smough
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  JEAN by Executioner Smough
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  JEAN by Executioner Smough
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  JEAN by Executioner Smough
+ INFO [main] (DefinePlayerKills.java:25) - JEAN killed Executioner Smough using Bazuka
+ INFO [main] (DefinePlayerKills.java:25) - JEAN killed Executioner Smough using Bazuka
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  JEAN by Executioner Smough
+ INFO [main] (DefinePlayerKills.java:25) - JEAN killed Executioner Smough using Bazuka
+ INFO [main] (DefinePlayerKills.java:41) - DEAN killed JEAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - DEAN killed JEAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - DEAN killed JEAN using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - JEAN killed DEAN using Bazuka
+ INFO [main] (DefinePlayerKills.java:29) - JEAN killed DEAN using Bazuka
+ INFO [main] (DefinePlayerKills.java:29) - JEAN killed DEAN using Bazuka
+ INFO [main] (DefinePlayerKills.java:29) - ANA killed DEAN using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:29) - ANA killed MORGAN using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:29) - ANA killed MORGAN using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed ANA using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed ANA using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - ANA killed MORGAN using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed ANA using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed ANA using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed ANA using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - ANA killed DENIS using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:41) - DENIS killed ANA using Axe
+ INFO [main] (DefinePlayerKills.java:41) - DENIS killed ANA using Axe
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed JEAN using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed JEAN using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed JEAN using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed JEAN using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - JEAN killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:41) - JP killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed JP using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - JP killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed JP using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed JP using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed DENIS using Bazuka
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed DENIS using Bazuka
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed DENIS using Bazuka
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed ALAN using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed DENIS using Bazuka
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed DENIS using Bazuka
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed DENIS using Bazuka
+ INFO [main] (DefinePlayerKills.java:41) - ALAN killed DENIS using Bazuka
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed BILL using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed BILL using Handgun
+ INFO [main] (DefinePlayerKills.java:29) - DENIS killed BILL using Handgun
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed DENIS using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed DENIS using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed DENIS using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed DENIS using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - BILL killed DENIS using Shotgun
+ INFO [main] (DefinePlayerKills.java:41) - DENIS killed DEAN using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:29) - DEAN killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:29) - DEAN killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:29) - DEAN killed DENIS using Knife
+ INFO [main] (DefinePlayerKills.java:41) - DENIS killed DEAN using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:41) - DENIS killed DEAN using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:41) - DENIS killed DEAN using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:25) - DEAN killed Dragon using Knife
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  DEAN by Dragon
+ INFO [main] (DefinePlayerKills.java:25) - DEAN killed Dragon using Knife
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  DEAN by Dragon
+ INFO [main] (DefinePlayerKills.java:25) - DEAN killed Dragon using Knife
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  DEAN by Dragon
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  DEAN by Dragon
+ INFO [main] (DefinePlayerKills.java:35) - <WORLD> killed  DEAN by Dragon
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed JEFF using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed JEFF using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed JEFF using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:29) - JEFF killed ANA using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - JEFF killed ANA using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - JEFF killed ANA using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - ANA killed JEFF using Widowmaker Rifle
+ INFO [main] (DefinePlayerKills.java:29) - JEFF killed ANA using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:29) - JEFF killed MORGAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:29) - JEFF killed MORGAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:29) - JEFF killed MORGAN using Bomb
+ INFO [main] (DefinePlayerKills.java:29) - JEFF killed MORGAN using Bomb
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (DefinePlayerKills.java:41) - MORGAN killed JEFF using Knife
+ INFO [main] (Match.java:117) - Match 2 has ended 
+ 
+ 

@@ -308,6 +308,7 @@ public class BonusFunctionsTests extends TestCase{
 		assertFalse(match.getOngoing());
 
 		//Generate Ranking 		
+		@SuppressWarnings("unused")
 		List<Player> ranking =  match.generateRanking();
 		match.printRanking();
 		
@@ -410,6 +411,7 @@ public class BonusFunctionsTests extends TestCase{
 		assertFalse(match.getOngoing());
 
 		//Generate Ranking 		
+		@SuppressWarnings("unused")
 		List<Player> ranking =  match.generateRanking();
 		match.printRanking();
 		
@@ -511,6 +513,7 @@ public class BonusFunctionsTests extends TestCase{
 		assertFalse(match.getOngoing());
 
 		//Generate Ranking 		
+		@SuppressWarnings("unused")
 		List<Player> ranking =  match.generateRanking();
 		match.printRanking();
 		
